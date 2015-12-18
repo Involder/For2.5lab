@@ -1,0 +1,17 @@
+c:\users\ivan_zaliscky\documents\visual studio 2013\Projects\lab3.2_sharp\lab3.2_sharp\bin\Debug\lab3.2_sharp.exe.config
+C:\Users\Ivan_Zaliscky\documents\visual studio 2013\Projects\lab3.2_sharp\lab3.2_sharp\bin\Debug\lab3.2_sharp.exe
+C:\Users\Ivan_Zaliscky\documents\visual studio 2013\Projects\lab3.2_sharp\lab3.2_sharp\bin\Debug\lab3.2_sharp.pdb
+C:\Users\Ivan_Zaliscky\documents\visual studio 2013\Projects\lab3.2_sharp\lab3.2_sharp\obj\Debug\lab3.2_sharp.exe
+C:\Users\Ivan_Zaliscky\documents\visual studio 2013\Projects\lab3.2_sharp\lab3.2_sharp\obj\Debug\lab3.2_sharp.pdb
+C:\Users\Ivan_Zaliscky\documents\visual studio 2013\Projects\lab3.2_sharp\lab3.2_sharp\obj\Debug\lab3.2_sharp.csprojResolveAssemblyReference.cache
+C:\Users\Dmitriy\Desktop\lab3.2_sharp\lab3.2_sharp\bin\Debug\lab3.2_sharp.exe.config
+C:\Users\Dmitriy\Desktop\lab3.2_sharp\lab3.2_sharp\obj\Debug\lab3.2_sharp.exe
+C:\Users\Dmitriy\Desktop\lab3.2_sharp\lab3.2_sharp\obj\Debug\lab3.2_sharp.pdb
+C:\Users\user\Desktop\lab3.2_sharp\lab3.2_sharp\bin\Debug\lab3.2_sharp.exe.config
+C:\Users\user\Desktop\lab3.2_sharp\lab3.2_sharp\obj\Debug\lab3.2_sharp.exe
+C:\Users\user\Desktop\lab3.2_sharp\lab3.2_sharp\obj\Debug\lab3.2_sharp.pdb
+C:\Users\user\Desktop\lab3.2_sharp\lab3.2_sharp\bin\Debug\lab3.2_sharp.exe
+C:\Users\user\Desktop\lab3.2_sharp\lab3.2_sharp\bin\Debug\lab3.2_sharp.pdb
+C:\Users\user\Desktop\lab3.2_sharp\lab3.2_sharp\bin\Debug\lab3.2_sharp.exe.CodeAnalysisLog.xml
+C:\Users\user\Desktop\lab3.2_sharp\lab3.2_sharp\bin\Debug\lab3.2_sharp.exe.lastcodeanalysissucceeded
+C:\Users\user\Desktop\lab3.2_sharp\lab3.2_sharp\obj\Debug\lab3.2_sharp.csprojResolveAssemblyReference.cache

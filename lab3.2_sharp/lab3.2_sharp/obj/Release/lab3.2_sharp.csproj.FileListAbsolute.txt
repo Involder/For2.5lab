@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\lab3.2_sharp\lab3.2_sharp\bin\Release\lab3.2_sharp.exe.config
+C:\Users\user\Desktop\lab3.2_sharp\lab3.2_sharp\bin\Release\lab3.2_sharp.exe
+C:\Users\user\Desktop\lab3.2_sharp\lab3.2_sharp\bin\Release\lab3.2_sharp.pdb
+C:\Users\user\Desktop\lab3.2_sharp\lab3.2_sharp\obj\Release\lab3.2_sharp.exe
+C:\Users\user\Desktop\lab3.2_sharp\lab3.2_sharp\obj\Release\lab3.2_sharp.pdb
